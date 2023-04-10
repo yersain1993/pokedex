@@ -9,7 +9,7 @@ const PokedexLayout = () => {
 
   return (
     <div className="relative">
-      <div className="w-full">
+      <div className="w-screen">
         <img src={header} alt="header" />
       </div>
       <button
